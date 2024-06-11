@@ -70,7 +70,7 @@ Follow these steps to create and set up an Oracle ADW instance:
 #### 6. Populate ADW with Sample Data
 
 1. Navigate to `Database Actions` in your ADW instance.
-2. Run the provided SQL script to create a schema and populate it with sample data.
+2. Run the provided SQL script in a newly created schema to populate it with sample data.
 
 #### 7. Run Marqo with Docker
 
